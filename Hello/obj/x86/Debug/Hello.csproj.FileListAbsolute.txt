@@ -1,0 +1,5 @@
+/Users/abhi/Projects/Hello/Hello/bin/Debug/Hello.exe
+/Users/abhi/Projects/Hello/Hello/bin/Debug/Hello.pdb
+/Users/abhi/Projects/Hello/Hello/obj/x86/Debug/Hello.csproj.CoreCompileInputs.cache
+/Users/abhi/Projects/Hello/Hello/obj/x86/Debug/Hello.exe
+/Users/abhi/Projects/Hello/Hello/obj/x86/Debug/Hello.pdb
